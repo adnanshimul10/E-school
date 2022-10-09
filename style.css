@@ -1,0 +1,183 @@
+body{
+    display: grid;
+}
+header{
+    background-color: #F0FFF0;
+    width: 1440px;
+    height: 650px;
+    margin-top: -2rem;
+    border-style: none;
+}
+.navbar-expand-lg{
+margin-left: 15%;
+margin-top: 3%;
+
+}
+
+#navbarNav{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.left-side{
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 15%;
+    
+   
+    
+}
+.right-side{
+    margin-left: -4%;
+    margin-top: 5%;
+}
+.p-part{
+    color:#FD511A;
+    
+}
+.h1-1{
+    font-weight: 700;
+    size: 48px;
+}
+.h1-part{
+    color: #21B573;
+    size: 48px;
+    font-weight: 700;
+   
+}
+button{
+    border-style: none;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+    padding: 5px 15px;
+    margin-top: 10px;
+}
+
+.lorem-p{
+    margin-top: -10px;
+
+}
+.card-part{
+    margin-left: 10%;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 250px;
+    width: 250px;
+    
+}
+.img-part{
+height: 85px;
+width: 66px;
+left: 231px;
+top: 672px;
+border-radius: 0px;  
+margin-left: 10%;
+margin-top: 20%;
+
+}
+.h5-part{
+    margin-left: 15%;
+}
+
+article{
+    margin-top: 3%;
+    margin-left: -7%;
+}
+h5{
+    margin-left: -1%;
+    margin-top: 2%;
+}
+.p-article{
+    margin-left: -1%;
+    margin-top: -4px;
+}
+
+.card-img-top{
+height: 150px;
+width: 200px;
+left: 154px;
+top: 1126px;
+border-radius: 11px;
+justify-content: space-between;
+margin-left: 15%;
+margin-top: 10%;
+
+}
+.OnlineCourses{
+    margin-top: 7%;
+}
+.h3-part{
+    align-items: center;
+    margin-left: 40%;
+}
+.card-body{
+    margin-left: 18%;
+}
+.btn-part{
+    margin-left: -10px;
+    margin-top: -8px;
+}
+.h-100{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    gap: 5px;
+    height: 250px;
+    width: 350px;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.testmonial{
+    margin-top: 5%;
+    text-align: center;
+}
+.p-part{
+    margin-top: 8%;
+    color: black;
+}
+.h-testimonial{
+    font-weight: 700;
+    margin-top: 5%;
+      
+}
+.testmonial img{
+    margin-left: 90%;
+    margin-top: 30%;
+}
+
+.end-part{
+    background-color: #282531;
+    margin-top: 10%;
+    width: 1440px;
+    height: 369px;
+    
+}
+.t-white{
+    color: white;
+    margin-top: 5%;
+    
+    
+}
+ul{
+list-style: none;
+margin-left: -15%;
+
+}
+.right-part{
+    margin-left: -10%;
+   
+    
+}
+.left-part{
+    margin-left: 10%;
+}
+.left-t{
+    margin-top: 12%;
+    margin-left: 10%;
+}
+.t-footer{
+    color: white;
+    text-align: center;
+    margin-top: 4%;
+}
